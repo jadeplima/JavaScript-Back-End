@@ -41,7 +41,8 @@
   <h1></h1>
   
   
-  <img height="300" src="https://user-images.githubusercontent.com/75194076/173182528-dbf114aa-4a5e-4ba3-bebe-62a16e84b57c.png" target="_blank">
+  <img height="300" src="https://user-images.githubusercontent.com/75194076/173182528-dbf114aa-4a5e-4ba3-bebe-62a16e84b57c.png" target="_blank"> <br>
+<img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
   
 
 
